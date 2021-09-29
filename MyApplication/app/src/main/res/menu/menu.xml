@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Set0"
+        android:orderInCategory="100"
+        android:title="@string/action_setToZero"
+        app:showAsAction="never"
+        />
+    <item
+            android:id="@+id/Display_phoneNumb"
+            android:orderInCategory="100"
+            android:title="@string/action_display"
+            app:showAsAction="never" />
+
+    <item
+        android:id="@+id/wiki"
+        android:orderInCategory="100"
+        android:title="@string/action_wiki"
+        app:showAsAction="never"
+        />
+
+
+
+</menu>

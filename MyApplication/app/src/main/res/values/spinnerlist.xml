@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="department">
+        <item>Ile-et-vilaine</item>
+        <item>Ile de France</item>
+        <item>Xuwan Wu</item>
+        <item>Xischuan</item>
+        <item>Mosul</item>
+    </string-array>
+</resources>
